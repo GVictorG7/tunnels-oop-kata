@@ -1,0 +1,11 @@
+Loading point - GREEN - 10 bags;
+Loading point - YELLOW - 8 bags;
+Loading point - MAGENTA - 15 bags;
+Loading point - BLACK - 9 bags;
+Loading point - BLUE - 13 bags;
+Loading point - RED - 9 bags;
+Loading point - WHITE - 2 bags;
+Loading point - YELLOW - 12 bags;
+Loading point - GREEN - 11 bags;
+Loading point - WHITE - 11 bags;
+Loading point - MAGENTA - 9 bags;
